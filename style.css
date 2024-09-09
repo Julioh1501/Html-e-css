@@ -1,19 +1,20 @@
 body {
-    color: rgb(226, 221, 221);
-    background: rgb(5, 153, 252);
+    color:whithe;
+    background: black;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: arial;
+    margin-bottom : 100px;
   }
   
   header {
-    border-bottom: solid 2px rgb(62, 56, 145);
+    border-bottom: solid 2px pink;
     padding: 20px;
     font-size: 32px;
-    color: rgb(2, 12, 2);
+    color: pink;
   }
   
-  section {
-    background: rgb(25, 4, 77);
+  .Chamada {
+    background: pink;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -23,7 +24,12 @@ body {
 .chamada-texto {
     margin-right: 5%;
   }
-    
+.categoria-videos{
+
+
+}
+
+
   h1 {
     font-size: 40px;
   }
